@@ -20,13 +20,16 @@
                 "canadacentral",
                 "westindia",
                 "southindia",
-                "centralindia"
+                "centralindia",
+                "westeurope",
+                "northeurope"
             ]
         },
         "masterCount": {
             "defaultValue": 1,
             "allowedValues": [
                 1,
+                2,
                 3,
                 5
             ],
